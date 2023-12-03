@@ -23,6 +23,7 @@
   <ItemGroup>
     <Folder Include="Areas\Authenticated\Controllers\" />
     <Folder Include="Areas\UnAuthenticated\Controllers\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>
